@@ -4,7 +4,11 @@ export default [
     title: "razor blade",
     price: 1.99,
     description:
-      "Lorem ipsum dolor amet leggings microdosing man bun, YOLO normcore four loko authentic poke. Man braid wolf cornhole YOLO, cronut succulents chambray fashion axe. Whatever truffaut lomo distillery meditation marfa, shaman quinoa selvage retro la croix bushwick banh mi kitsch. Glossier blog chillwave vinyl vice. Etsy sustainable bespoke art party kitsch hashtag mlkshk cold-pressed kinfolk selfies. Tumblr deep v shabby chic, authentic gochujang pour-over selvage tofu next level street art pitchfork viral knausgaard polaroid. Everyday carry authentic truffaut marfa retro.",
+    "All DE razor blades are a standardised size and shape and will therefore fit any double edge safety razor you own. Razor blade preference is very personal to each invidual and a period of trial and error usually helps to determine which band is best suited to your skin.\n" +
+        "\n" +
+        "Derby Blades are described as giving a relatively mild shave when paired up with a high-quality double edge razor and shaving cream, well suited to regular shavers with finer hair and those who look for a smooth shave over a sharp shave.\n" +
+        "\n" +
+        "All razor blades go through an extensive manufacturing process, starting off as long strips of stainless steel that go through several processes in order to create the fine, sharp blades that are easy and enjoyable to shave with. Once crafted, all blades go through strict quality control tests to ensure they are ideal for consumer use.",
     featured: true,
     created_at: "2019-10-27T21:38:58.014Z",
     updated_at: "2019-10-27T22:52:25.274Z",
@@ -28,7 +32,9 @@ export default [
     title: "Gillette Razor",
     price: 9.99,
     description:
-      "Lorem ipsum dolor amet leggings microdosing man bun, YOLO normcore four loko authentic poke. Man braid wolf cornhole YOLO, cronut succulents chambray fashion axe. Whatever truffaut lomo distillery meditation marfa, shaman quinoa selvage retro la croix bushwick banh mi kitsch. Glossier blog chillwave vinyl vice. Etsy sustainable bespoke art party kitsch hashtag mlkshk cold-pressed kinfolk selfies. Tumblr deep v shabby chic, authentic gochujang pour-over selvage tofu next level street art pitchfork viral knausgaard polaroid. Everyday carry authentic truffaut marfa retro.",
+    "Gillette Razor Men’s Disposable razor is the world’s #1 selling 3-blade disposable*. The razor offers a smoother shave and has 100% better rinsing (vs. Sensor2 Plus).\n" +
+        "\n" +
+        "It features an Enhanced Lubrastrip that helps blades glide over. A Pivoting Head provides incredible closeness. Complete with a non-slip rubber handle for great control and maneuverability. Get up to 10 smooth shaves per razor.",
     featured: true,
     created_at: "2019-10-27T21:39:45.612Z",
     updated_at: "2019-10-27T22:52:06.354Z",
@@ -52,7 +58,8 @@ export default [
     title: "Barber Razor",
     price: 7.99,
     description:
-      "Lorem ipsum dolor amet leggings microdosing man bun, YOLO normcore four loko authentic poke. Man braid wolf cornhole YOLO, cronut succulents chambray fashion axe. Whatever truffaut lomo distillery meditation marfa, shaman quinoa selvage retro la croix bushwick banh mi kitsch. Glossier blog chillwave vinyl vice. Etsy sustainable bespoke art party kitsch hashtag mlkshk cold-pressed kinfolk selfies. Tumblr deep v shabby chic, authentic gochujang pour-over selvage tofu next level street art pitchfork viral knausgaard polaroid. Everyday carry authentic truffaut marfa retro.",
+    "100% RUST-RESISTANT STAINLESS STEEL - Black Widow straight safety razor is well-constructed with stainless steel, which is stiffer and better for thick beard or hair. Already set for an exposed blade for crisp cut lines. You don’t only get a good shave but also a good value for money\n" +
+        "PRECISE, SMOOTH CUT - Our single edge barber razor features an armature swing lock design for secure blade insertion; created with thumb notch and ridges for extra control for preventing the razor to slip, which is most crucial when doing close shave",
     featured: null,
     created_at: "2019-10-28T00:57:44.490Z",
     updated_at: "2019-10-28T00:57:44.490Z",
@@ -76,7 +83,9 @@ export default [
     title: "Electric Razor",
     price: 20.99,
     description:
-      "Lorem ipsum dolor amet leggings microdosing man bun, YOLO normcore four loko authentic poke. Man braid wolf cornhole YOLO, cronut succulents chambray fashion axe. Whatever truffaut lomo distillery meditation marfa, shaman quinoa selvage retro la croix bushwick banh mi kitsch. Glossier blog chillwave vinyl vice. Etsy sustainable bespoke art party kitsch hashtag mlkshk cold-pressed kinfolk selfies. Tumblr deep v shabby chic, authentic gochujang pour-over selvage tofu next level street art pitchfork viral knausgaard polaroid. Everyday carry authentic truffaut marfa retro.",
+    "❤ Painless Close Shaving < < Painless, low noise, hypoallergenic, 3D rotary close shaving acomplished by high speed powerful motor, 4 direction flex heads and hypo-allergenic double-track stainless steel blade. It glides gently along your curves and contours and give you a closest shave without any residue\n" +
+        "❤ Pop-up trimmer < < Upgraded double-blade pop-up trimmer, one touch to open, helps precisely trim and detail your beard and sideburns in seconds,NOT including Wall Adapter\n" +
+        "❤ Battery Countdown and Smart Safety Lock < < Designed with battery status countdown in percentage on large LCD display to remind you of recharging when necessary; Easily active smart safety lock by continously press on/off button for 3 seconds to avoid unexpected starting up on a trip",
     featured: null,
     created_at: "2019-10-28T01:36:25.217Z",
     updated_at: "2019-10-28T01:36:25.217Z",
@@ -100,7 +109,10 @@ export default [
     title: "Vintage Razor",
     price: 33.99,
     description:
-      "Lorem ipsum dolor amet squid tbh crucifix woke, vegan banjo succulents try-hard distillery waistcoat photo booth. Chillwave single-origin coffee art party snackwave palo santo before they sold out. Lyft brooklyn gluten-free, vape XOXO hella unicorn meggings banh mi heirloom air plant copper mug fixie lo-fi. Vaporware copper mug semiotics pok pok kogi poutine.",
+    "The '5 BC' Edition does NOT come with blades, as blade suitability is subjective and personal. Please buy your double edge blades separately and see which brand suits your hair/skin the best\n" +
+        "Same head platform as our EMPEROR series - the MOST HIGH-END and HEAVIEST variation of the Chieftain: a time-tested and proven perfect all-rounder razor with medium aggression\n" +
+        "TOP specs: ECO friendly, Ultra durable brass with vintage bronze plated zinc baseplate. Super heavy weight (101g / 3.55oz) + short handle (9.5cm / 3.74in)\n" +
+        "CONTENT: 1x Safety razor handle + Luxury carry case",
     featured: null,
     created_at: "2019-10-28T19:46:08.939Z",
     updated_at: "2019-10-28T19:46:08.939Z",
@@ -124,7 +136,11 @@ export default [
     title: "Gillette Orange Razor",
     price: 12.99,
     description:
-      "Lorem ipsum dolor amet squid tbh crucifix woke, vegan banjo succulents try-hard distillery waistcoat photo booth. Chillwave single-origin coffee art party snackwave palo santo before they sold out. Lyft brooklyn gluten-free, vape XOXO hella unicorn meggings banh mi heirloom air plant copper mug fixie lo-fi. Vaporware copper mug semiotics pok pok kogi poutine.",
+    "Gillette razor with five blades with slide coating - for a barely noticeable shave\n" +
+        "Precision trimmer on the back side - ideal for shaving in difficult places on the nose and sideburns\n" +
+        "With counter moisture strips, which faded, if you get no optimum shaving results\n" +
+        "One spare blade is equivalent to up to a month shaving\n" +
+        "All Fusion5 blades can be used handles with all Fusion5 formerly fusion",
     featured: null,
     created_at: "2019-10-28T19:58:34.104Z",
     updated_at: "2019-10-28T19:58:34.104Z",
@@ -148,7 +164,9 @@ export default [
     title: "Gillette Blue Razor",
     price: 17.99,
     description:
-      "Lorem ipsum dolor amet squid tbh crucifix woke, vegan banjo succulents try-hard distillery waistcoat photo booth. Chillwave single-origin coffee art party snackwave palo santo before they sold out. Lyft brooklyn gluten-free, vape XOXO hella unicorn meggings banh mi heirloom air plant copper mug fixie lo-fi. Vaporware copper mug semiotics pok pok kogi poutine.",
+    "3 Independently Mounted Spring Blades and a Pivoting Head that adjust to the contours of your face for a smooth shave\n" +
+        "\n" +
+        "A great shave is within your grasp with Gillette Blue3 men’s disposable razor. Featuring lubrastrip, 3 skin-sensing blades, an easy grip handle for great control and a 40° pivoting head which adjusts to the contours of your face.",
     featured: true,
     created_at: "2019-10-28T20:09:56.444Z",
     updated_at: "2019-10-28T20:09:56.444Z",
@@ -172,7 +190,10 @@ export default [
     title: "Old School Razor",
     price: 40.99,
     description:
-      "Lorem ipsum dolor amet squid tbh crucifix woke, vegan banjo succulents try-hard distillery waistcoat photo booth. Chillwave single-origin coffee art party snackwave palo santo before they sold out. Lyft brooklyn gluten-free, vape XOXO hella unicorn meggings banh mi heirloom air plant copper mug fixie lo-fi. Vaporware copper mug semiotics pok pok kogi poutine.",
+    "[GENUINE & RUST FREE] Surgical Grade Stainless Steel. Smooth Handle that helps prevent the razor from rusting and offer a comfortable grip. Minimizes Cuts.\n" +
+        "[GREAT QUALITY] for Barbershop and Personal Usage, A great option for beginners.\n" +
+        "[100% SAFE] Flippable blade lock like other shavettes that allows for quick and easy blade changes. Exchangeable Blade Technology allows to remove old blades to replace with fresh ones.\n" +
+        "[COMPATIBLE WITH] Astra, Shark, Lord, Derby all straight and double edge razor blades. The Kit includes : 100 Lord Single Edge Razor Blades. Each blade is individually wax paper wrapped. The Shavette comes in a plastic pouch for Protection.",
     featured: null,
     created_at: "2019-10-28T20:10:40.850Z",
     updated_at: "2019-10-28T20:10:40.850Z",
@@ -196,7 +217,10 @@ export default [
     title: "Panasonic Electric Shaver",
     price: 24.99,
     description:
-      "Lorem ipsum dolor amet squid tbh crucifix woke, vegan banjo succulents try-hard distillery waistcoat photo booth. Chillwave single-origin coffee art party snackwave palo santo before they sold out. Lyft brooklyn gluten-free, vape XOXO hella unicorn meggings banh mi heirloom air plant copper mug fixie lo-fi. Vaporware copper mug semiotics pok pok kogi poutine.",
+    "High-performance motor for a fast, powerful shave: Panasonic shaver with an ultra-fast motor and independent, five-blade shaving system deliver up to 70,000 cross cuts per minute to make everyday shaving quicker, smoother, and more efficient.\n" +
+        "Flexible 16-D shaving head: This Panasonic LV67 ARC5 has a shaving head that pivots effortlessly in 16 directions independently to follow and conform to the skin's natural contours, keeping the shaver head in close, cushioned contact with the face, neck, chin and jaw.\n" +
+        "Panasonic razor with an advanced intelligent shave sensor: Senses beard densities 220 times/sec and adjusts power 14 times/sec as you shave, ensuring smooth, even results.\n" +
+        "An incredibly close shave: Nano polished inner blades are precision honed to an acute 30 degrees to cleanly lift and cut through even thick, dense beards with ease.",
     featured: true,
     created_at: "2019-10-28T20:12:30.375Z",
     updated_at: "2019-10-28T20:26:12.927Z",
