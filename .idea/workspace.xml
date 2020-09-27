@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2378725-8a3f-4fe8-b188-ff8f87ab4208" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Sidebar.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/globalStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/Cart.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/SmallNavbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/SmallNavbar.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/CartButton.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/CartButton.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductTemplate.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductTemplate.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Cart" />
         <option value="About" />
         <option value="Checkout" />
         <option value="Home" />
@@ -53,6 +51,7 @@
         <option value="links.js" />
         <option value="Sidebar" />
         <option value="JavaScript File" />
+        <option value="Cart" />
       </list>
     </option>
   </component>
@@ -113,8 +112,17 @@
       <workItem from="1600416685293" duration="638000" />
       <workItem from="1601018444002" duration="6000" />
       <workItem from="1601193441154" duration="13315000" />
-      <workItem from="1601210388465" duration="3977000" />
+      <workItem from="1601210388465" duration="4706000" />
+      <workItem from="1601216557338" duration="1718000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: completed sidebar toggle functionality">
+      <created>1601214458032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601214458032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +139,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: completed sidebar toggle functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: completed sidebar toggle functionality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1323" y="711" width="544" height="443" key="#Chrome_Settings" timestamp="1600011031944">
