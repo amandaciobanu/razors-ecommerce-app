@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2378725-8a3f-4fe8-b188-ff8f87ab4208" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/BigNavbar.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/links.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.svelte" afterDir="false" />
     </list>
@@ -109,7 +107,8 @@
       <workItem from="1600334826109" duration="2716000" />
       <workItem from="1600416685293" duration="638000" />
       <workItem from="1601018444002" duration="6000" />
-      <workItem from="1601193441154" duration="13024000" />
+      <workItem from="1601193441154" duration="13315000" />
+      <workItem from="1601210388465" duration="389000" />
     </task>
     <servers />
   </component>
