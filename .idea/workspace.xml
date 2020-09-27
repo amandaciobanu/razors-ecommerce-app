@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2378725-8a3f-4fe8-b188-ff8f87ab4208" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Sidebar.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/globalStore.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/SmallNavbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/SmallNavbar.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,6 @@
         <option value="Login" />
         <option value="ProductTemplate" />
         <option value="Hero" />
-        <option value="JavaScript File" />
         <option value="Products" />
         <option value="Product" />
         <option value="Loading" />
@@ -48,6 +51,8 @@
         <option value="CartButton" />
         <option value="BigNavbar" />
         <option value="links.js" />
+        <option value="Sidebar" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -108,7 +113,7 @@
       <workItem from="1600416685293" duration="638000" />
       <workItem from="1601018444002" duration="6000" />
       <workItem from="1601193441154" duration="13315000" />
-      <workItem from="1601210388465" duration="389000" />
+      <workItem from="1601210388465" duration="3977000" />
     </task>
     <servers />
   </component>
