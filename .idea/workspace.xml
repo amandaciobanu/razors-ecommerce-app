@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2378725-8a3f-4fe8-b188-ff8f87ab4208" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Products/Products.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/defaultProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Products/Product.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Products/Products.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Products/Products.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Products.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Products.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
         <option value="Hero" />
         <option value="JavaScript File" />
         <option value="Products" />
+        <option value="Product" />
       </list>
     </option>
   </component>
@@ -99,6 +100,9 @@
       <workItem from="1600271902525" duration="2460000" />
       <workItem from="1600329606854" duration="2000" />
       <workItem from="1600334826109" duration="2716000" />
+      <workItem from="1600416685293" duration="638000" />
+      <workItem from="1601018444002" duration="6000" />
+      <workItem from="1601193441154" duration="1716000" />
     </task>
     <servers />
   </component>
