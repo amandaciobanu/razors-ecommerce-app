@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2378725-8a3f-4fe8-b188-ff8f87ab4208" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/Cart.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/Item.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/ItemsList.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/Cart.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/Cart.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Cart/CartButton.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/CartButton.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ProductTemplate.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductTemplate.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +51,10 @@
         <option value="BigNavbar" />
         <option value="links.js" />
         <option value="Sidebar" />
-        <option value="JavaScript File" />
         <option value="Cart" />
+        <option value="JavaScript File" />
+        <option value="ItemsList" />
+        <option value="Item" />
       </list>
     </option>
   </component>
@@ -113,7 +116,13 @@
       <workItem from="1601018444002" duration="6000" />
       <workItem from="1601193441154" duration="13315000" />
       <workItem from="1601210388465" duration="4706000" />
-      <workItem from="1601216557338" duration="1718000" />
+      <workItem from="1601216557338" duration="2691000" />
+      <workItem from="1601300184239" duration="147000" />
+      <workItem from="1601301195478" duration="2000" />
+      <workItem from="1601301778086" duration="2000" />
+      <workItem from="1601305868294" duration="3000" />
+      <workItem from="1601365077702" duration="2000" />
+      <workItem from="1601375113984" duration="835000" />
     </task>
     <task id="LOCAL-00001" summary="feat: completed sidebar toggle functionality">
       <created>1601214458032</created>
