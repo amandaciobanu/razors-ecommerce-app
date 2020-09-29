@@ -5,7 +5,7 @@
   export let price;
   export let amount;
 //import cart methods
-
+import {removeItem} from '../../stores/cart';
 </script>
 
 <!--cart item-->
@@ -15,8 +15,8 @@
     <h4>{title}</h4>
     <h5>${price}</h5>
     <button class="cart-btn remove-btn" on:click="{() =>
-      console.log('remove')
-    }"></button>
+      removeItem(id)
+    }">remove</button>
   </div>
   <div >
     <button class="cart-btn amount-btn" on:click="{() =>
