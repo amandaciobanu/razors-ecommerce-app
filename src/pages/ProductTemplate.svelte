@@ -1,13 +1,14 @@
 <script>
 export let id;
 export let location;
+import {addToCart} from '../stores/cart';
 //global store
 import products from '../stores/defaultProducts';
 import Loading from '../components/Loading.svelte';
 import {link} from 'svelte-routing';
 import globalStore from '../stores/globalStore';
 
-$: product = $products.find(item => item.id === parseInt(id))
+$: product = $products.find(item => item.id === parseInt(id));
 </script>
 <svelte:head>
   <title>{!product ? "single product" : product.title}</title>
@@ -18,7 +19,7 @@ $: product = $products.find(item => item.id === parseInt(id))
   <section class="single-product">
     <!--Back to products -->
     <a href="/products" use:link class="btn btn-primary">Back to products</a>
-    <!-- single product conatiner-->
+    <!-- single product container-->
     <div class="single-product-container">
       <article class="single-product-img">
         <img src={product.image} alt="product image">
@@ -27,9 +28,9 @@ $: product = $products.find(item => item.id === parseInt(id))
         <h1>{product.title}</h1>
         <h2>{product.price}</h2>
         <p>{product.description}</p>
-        <button class="btn btn-primary btn-block" on:click="{() =>
-              globalStore.toggleItem('cart', true)
-        }">
+        <button class="btn btn-primary btn-block" on:click={() =>
+              addToCart(product)
+              globalStore.toggleItem('cart', true)}>
           add to cart
         </button>
       </article>

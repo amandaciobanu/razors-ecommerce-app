@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2378725-8a3f-4fe8-b188-ff8f87ab4208" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cart/Item.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/Item.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductTemplate.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductTemplate.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/stores/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/cart.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +121,9 @@
       <workItem from="1601365077702" duration="2000" />
       <workItem from="1601375113984" duration="1763000" />
       <workItem from="1601384646641" duration="7254000" />
-      <workItem from="1601400897820" duration="1916000" />
+      <workItem from="1601400897820" duration="2449000" />
+      <workItem from="1601896791725" duration="3000" />
+      <workItem from="1601992511398" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="feat: completed sidebar toggle functionality">
       <created>1601214458032</created>
